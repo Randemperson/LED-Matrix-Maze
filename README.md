@@ -16,7 +16,7 @@ Before PCB fabrication, the circuit was validated using a breadboard prototype
 to test LED matrix control, button inputs, and maze logic. This prototype was
 used to verify functionality prior to committing to PCB fabrication.
 
-![Breadboard Prototype](photos/breadboard_prototype.jpg)
+![Breadboard Prototype](photos/breadboard_prototype.png)
 
 ## Fabrication Plan
 The PCB is designed for rapid prototyping using professional PCB milling and
