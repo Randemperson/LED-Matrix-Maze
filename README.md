@@ -12,9 +12,9 @@ interface, and user inputs, and is designed for makerspace prototyping and
 iteration.
 
 ## Prototyping
-Before PCB fabrication, the circuit was validated using a breadboard prototype
+Before PCB design, the circuit was validated using a breadboard prototype
 to test LED matrix control, button inputs, and maze logic. This prototype was
-used to verify functionality prior to committing to PCB fabrication.
+used to verify functionality prior to committing to fabricating the PCB.
 
 ![Breadboard Prototype](photos/breadboard_prototype.png)
 
